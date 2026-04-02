@@ -1,0 +1,100 @@
+{
+  "personal_info": {
+    "full_name": "NGUYỄN THẾ HỘI",
+    "title": "Web Developer",
+    "address": "154 Doi Can, Ba Dinh, Ha Noi",
+    "email": "thehoinguyen@outlook.com",
+    "phone": "0358331416",
+    "summary": "Web developer with about 3 years of experience developing web application using ASP.NET core, Entity Framework core, Reactjs, Vuejs. Expertise in requirements analysis, design, development, SEO enhancement, maintenance, and production support of business applications."
+  },
+  "work_experience": [
+    {
+      "company": "The Metub Company",
+      "location": "Hà Nội",
+      "position": "Software Engineer",
+      "duration": "Jan 2024 - Mar 2026",
+      "responsibilities": [
+        "Designed and developed an internal data platform to empower C-level executives and business units with real-time analytics, dashboards, and data-driven insights for strategic decision-making.",
+        "Led the development of 'mecreator', an innovative content creation and management tool that enhances productivity and user engagement.",
+        "Optimized database queries and system performance, resulting in significant improvements to user experience, including faster load times and smoother interactions."
+      ]
+    },
+    {
+      "company": "Ichiba holding",
+      "location": "Hà Nội",
+      "position": "Web developer",
+      "duration": "Jul 2021 - Jan 2024",
+      "responsibilities": [
+        "Integrated a third-party analytics tool.",
+        "Collaborated with product managers and designers to translate requirements into technical specifications, ensuring timely and successful project deliveries.",
+        "Implemented SEO best practices, leading to a 15% increase in organic traffic and improving search engine ranking positions.",
+        "Participated in brainstorming sessions and provided innovative solutions to technical challenges, leading to the adoption of new technologies and improved development workflows."
+      ]
+    }
+  ],
+  "skills": {
+    "languages": ["C#", "Javascript", "TypeScript", "HTML", "CSS"],
+    "project_management": ["JIRA", "AGILE", "SCRUM"],
+    "soft_skills": ["Adaptability", "Problem solving", "Attention to detail", "Business acumen"],
+    "tools_and_frameworks": ["ASP.NET", "xUnit", "Git", "Docker", "VSCode", "Postgres", "TailwindCSS", "Vue.js", "NuxtJS", "Next.js", "React.js", "Postman", "NodeJS", "npm", "EF Core"]
+  },
+  "projects": [
+    {
+      "name": "Digital Web Store Front",
+      "duration": "Oct 2023 - Mar 2024",
+      "team_size": 5,
+      "description": "Digital web store font is a project type of SASS, provide store front for merchants to show their products with high ability customization.",
+      "responsibilities": [
+        "Integrate with internal services.",
+        "Join sprint events (sprint planning, review, retrospective).",
+        "Implement design and web functions.",
+        "Support teammates fix bug, pair coding."
+      ],
+      "technologies": ["Liquid template", "VanillaJS", "Web component", "HTML5", "TailwindCSS", "C#", ".NET"]
+    },
+    {
+      "name": "PIM - Product Information Management",
+      "duration": "Apr 2023 - Oct 2023",
+      "team_size": 7,
+      "description": "PIM is a micro service of Ichiba software architect, take responsibility for manage product information.",
+      "responsibilities": [
+        "Develop APIs, integrate with other system and third-party application.",
+        "Join sprint events (sprint planning, review, retrospective).",
+        "Support teamate fix bug, pair coding."
+      ],
+      "technologies": ["ReactJS", "NextJs", "TailwindCSS", "SCSS", "C#", ".NET", "Entity Framework Core", "RabitMQ", "Postgres", "Citus"]
+    },
+    {
+      "name": "OMS - Order Management System",
+      "duration": "Jul 2022 - Mar 2023",
+      "team_size": 8,
+      "description": "The objective of OMS project is to develop a project type of SAAS – software as a service, OMS provide software for clients, merchants as aservice to consume.",
+      "responsibilities": [
+        "Develop APIs, integrate with other system and third-party application.",
+        "Join sprint events (sprint planning, review, retrospective).",
+        "Support teammate fix bug, pair coding.",
+        "Support deployment, write Dockerfile."
+      ],
+      "technologies": ["ReactJS", "NextJS", "TailwindCSS", "C#", "ASP.NET", "xUnit", "Entity Framework", "Postgres"]
+    },
+    {
+      "name": "Janbox mobile",
+      "duration": "Jul 2021 - Jun 2022",
+      "team_size": 7,
+      "description": "",
+      "responsibilities": [
+        "Implement design and features with Vue component.",
+        "Intergrate with APIs."
+      ],
+      "technologies": ["Vuejs", "Vuex", "Bootstrap 4", "Axios", "ASP.Net core"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Software Engineer",
+      "institution": "Dai Nam University",
+      "duration": "Jan 2018 - Jan 2022",
+      "gpa": 3.1
+    }
+  ]
+}

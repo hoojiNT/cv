@@ -19,3 +19,8 @@ Top-level keys: `personal_info`, `work_experience`, `skills`, `projects`, `educa
 
 - `skills` has sub-keys: `languages`, `project_management`, `soft_skills`, `tools_and_frameworks`
 - Each `projects` entry includes: `name`, `duration`, `team_size`, `description`, `responsibilities[]`, `technologies[]`
+
+
+
+Export command:
+`npx md-to-pdf cv.md`

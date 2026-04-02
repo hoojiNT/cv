@@ -5,7 +5,7 @@
     "address": "154 Doi Can, Ba Dinh, Ha Noi",
     "email": "thehoinguyen@outlook.com",
     "phone": "0358331416",
-    "summary": "Web developer with about 3 years of experience developing web application using ASP.NET core, Entity Framework core, Reactjs, Vuejs. Expertise in requirements analysis, design, development, SEO enhancement, maintenance, and production support of business applications."
+    "summary": "Experienced web developer with 5+ years of expertise in building robust applications. Proficient in full-stack development lifecycle including requirements analysis, system design, implementation, SEO optimization, maintenance, and production support for enterprise applications."
   },
   "work_experience": [
     {
@@ -14,8 +14,7 @@
       "position": "Software Engineer",
       "duration": "Jan 2024 - Mar 2026",
       "responsibilities": [
-        "Designed and developed an internal data platform to empower C-level executives and business units with real-time analytics, dashboards, and data-driven insights for strategic decision-making.",
-        "Led the development of 'mecreator', an innovative content creation and management tool that enhances productivity and user engagement.",
+        "Developed an internal data platform to empower C-level executives and business units with real-time analytics, dashboards, and data-driven insights for strategic decision-making.",
         "Optimized database queries and system performance, resulting in significant improvements to user experience, including faster load times and smoother interactions."
       ]
     },
@@ -33,12 +32,42 @@
     }
   ],
   "skills": {
-    "languages": ["C#", "Javascript", "TypeScript", "HTML", "CSS"],
+    "languages": ["C#", "Javascript", "TypeScript", "HTML", "CSS", "PYTHON", "GO"],
     "project_management": ["JIRA", "AGILE", "SCRUM"],
     "soft_skills": ["Adaptability", "Problem solving", "Attention to detail", "Business acumen"],
     "tools_and_frameworks": ["ASP.NET", "xUnit", "Git", "Docker", "VSCode", "Postgres", "TailwindCSS", "Vue.js", "NuxtJS", "Next.js", "React.js", "Postman", "NodeJS", "npm", "EF Core"]
   },
   "projects": [
+    // 
+    {
+      "name": "MeCreator",
+      "duration": "Mar 2025 - Mar 2026",
+      "team_size": 5,
+      "description": "MeCreator helps brands connect with social media creators, collaborate on high-quality content, and boost campaign performance.",
+      "responsibilities": [
+        "Designed and implemented RESTful APIs using FastAPI to handle creator-brand collaborations, content submissions, and campaign analytics.",
+        "Managed PostgreSQL database schema design, query optimization, and data migrations to support scalable user and content data storage.",
+        "Integrated Redis for caching frequently accessed data, improving API response times and reducing database load.",
+        "Implemented SSO authentication with third-party identity providers (e.g., Google, Facebook) for secure user login and role-based access control.",
+        "Developed integrations with external APIs (social media platforms like Instagram, TikTok) for content fetching and creator profile synchronization.",
+        "Wrote comprehensive unit and integration tests using pytest to ensure API reliability and data integrity.",
+        "Participated in agile sprint events, code reviews, and pair programming to maintain code quality and team collaboration."
+      ],
+      "technologies": ["Postgres", "Redis", "PYTHON", "FastApi", "NextJS"]
+    },
+    {
+      "name": "Data Platform",
+      "duration": "Mar 2024 - Mar 2025",
+      "team_size": 5,
+      "description": "Data platform is an internal project, provide data analytics, dashboard, data insight for C-level executives and business units.",
+      "responsibilities": [
+        "Integrate with internal services.",
+        "Join sprint events (sprint planning, review, retrospective).",
+        "Implement design and web functions.",
+        "Support teammates fix bug, pair coding."
+      ],
+      "technologies": ["TailwindCSS", "ReactJS", "NextJS", "NestJS", "TypeScript", "Postgres", "Redis", "Dremio"]
+    },
     {
       "name": "Digital Web Store Front",
       "duration": "Oct 2023 - Mar 2024",
